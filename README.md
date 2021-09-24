@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning  Ml, Data Science, Computer Vision
 -  😄 Pronouns: He/His
 
+![](https://komarev.com/ghpvc/?username=muteprogrammer&color=dc143c)
+
 
 <img src ="https://github-readme-stats.vercel.app/api?username=muteprogrammer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=muteprogrammer&layout=compact)">
