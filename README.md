@@ -2,7 +2,7 @@
 
 I❤️ code, Python and anything CREATIVE✨
 
-![](https://komarev.com/ghpvc/?username=muteprogrammer&color=dc143c)
+![](https://komarev.com/ghpvc/?username=p-p-p-p&color=dc143c)
 ---
 ## 💻 Technologies I Love
 
@@ -20,8 +20,8 @@ I❤️ code, Python and anything CREATIVE✨
 -  😄 Pronouns: He/His
 - ⚡ Fun fact: I like you
 
-<img src ="https://github-readme-stats.vercel.app/api?username=muteprogrammer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=muteprogrammer&layout=compact)">
+<img src ="https://github-readme-stats.vercel.app/api?username=p-p-p-p&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=p-p-p-p&layout=compact)">
 
 
 <!--
