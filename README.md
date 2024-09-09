@@ -20,8 +20,6 @@ I❤️ code, Python and anything CREATIVE✨
 -  😄 Pronouns: He/His
 - ⚡ Fun fact: I like you
 
-<img src ="https://github-readme-stats.vercel.app/api?username=p-p-p-p&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=p-p-p-p&layout=compact)">
 
 
 <!--
